@@ -13,6 +13,13 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'webpacker'
 gem 'react-rails'
+gem 'pry-rails'
+gem 'pry-doc'
+gem 'pry-byebug'
+gem 'pry-stack_explorer'
+gem 'bootstrap', '~> 4.0.0'
+gem 'jquery-rails'
+gem 'font-awesome-sass', '~> 4.2.0'
 
 group :development, :test do
   gem 'sqlite3'
