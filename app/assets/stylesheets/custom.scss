@@ -1,3 +1,35 @@
 @import "bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container.header {
+  background: #d2481adb;
+  height: 40px;
+}
+
+.row.chuc {
+  background: #d2481a;
+}
+
+i.fa.fa-home {
+  color: gainsboro;
+  font-size: 40px;
+}
+
+i.fa.fa-plus {
+  font-size: 30px;
+  color: antiquewhite;
+  margin-top: 5px;
+  margin-left: 50%;
+}
+
+i.fa.fa-plus:hover {
+  background: #bb4020;
+  width: 25px;
+  cursor: pointer;
+}
