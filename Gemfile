@@ -17,7 +17,7 @@ gem 'pry-rails'
 gem 'pry-doc'
 gem 'pry-byebug'
 gem 'pry-stack_explorer'
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 4.2.0'
 
